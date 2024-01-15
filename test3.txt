@@ -1,4 +1,5 @@
 This is i am writing from the nano editor
 ok
 ok something 
-nothing 
+nothing
+nothing and something  
