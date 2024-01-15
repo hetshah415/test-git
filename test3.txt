@@ -1,5 +1,9 @@
 This is i am writing from the nano editor
 ok
 ok something 
+<<<<<<< HEAD
 nothing
 nothing and something  
+=======
+nothing 
+>>>>>>> a6304e51907e770265218d3a73c426010c178614
